@@ -1,4 +1,4 @@
-# nannyish--1-final
+# nannyish-
 This project is bulit as a requirement for Software construction lab [SWE 444] course.
 
 Briefly Nannyish is an application that connects parents with nannies who wish to babysit as a part-time job.
