@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391527598028",
+    "project_id": "nannyish-f3c0a",
+    "storage_bucket": "nannyish-f3c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391527598028:android:d730d5fb097379a9d93f69",
+        "android_client_info": {
+          "package_name": "com.nannyish.nannyish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391527598028-d2citpalh37fju2s8t7lru4luba6v91v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuBk8Qn_GbNOdCaABMM1C-HLabejMxGhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391527598028-d2citpalh37fju2s8t7lru4luba6v91v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
